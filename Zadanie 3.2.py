@@ -1,7 +1,7 @@
 print("Zadanie 1:")
 słownik = {
     "Piekarnia" : ["Chleb", "Pączek" , "Bułki"],
-    "Warzywniak" : ["Marchew", "Seler", "Rukola"]
+    "Warzywniak" : ["Marchew", "Seler", "Cebula"]
 }
 łączna_liczba_produktów = 0
 for i in słownik:
