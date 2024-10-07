@@ -4,3 +4,6 @@ słownik = {
 }
 
 print(słownik)
+for i in słownik:
+    produkty = słownik[i]
+    print (f"Idę do {i} i kupuję tam: {produkty}")
